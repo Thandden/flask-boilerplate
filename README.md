@@ -7,7 +7,9 @@ Simple Flask boilerplate with:
 
 
 Clone repo:
+
 `git clone https://github.com/Thandden/flask-boilerplate.git`
 
 Run Flask:
+
 `flask run --debug`
